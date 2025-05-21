@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'https://tela-backend.onrender.com/api',
+        url: 'https://cleansara.onrender.com',
       },
     ],
   },
